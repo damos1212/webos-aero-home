@@ -1,0 +1,12 @@
+{
+    "id": "tld.my.home",
+    "version": "8.23.0",
+    "vendor": "webos-aero-home",
+    "type": "qml",
+    "main": "main.qml",
+    "title": "Home",
+    "icon": "icon.png",
+    "largeIcon": "icon.png",
+    "iconColor": "#000000",
+    "noSplashOnLaunch": true
+}

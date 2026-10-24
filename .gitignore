@@ -1,0 +1,12 @@
+# your TV's address and key path
+config.sh
+# generated audio (tools/make-audio.sh)
+home/tld.my.home/ambient.wav
+# third-party assets fetched from your own TV for the trailer, and render output
+trailer/fonts/
+trailer/apps/
+trailer/build/
+trailer/out/
+trailer/.deps/
+__pycache__/
+*.ipk

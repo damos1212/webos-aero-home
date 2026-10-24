@@ -1,0 +1,3 @@
+module QtMultimedia
+SoundEffect 5.0 SoundEffect.qml
+SoundEffect 5.9 SoundEffect.qml
